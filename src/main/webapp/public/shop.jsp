@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
     <head>
-        <title>Fruitsのお店</title>
+        <title>Fruitsのお店-編集版</title>
         <meta charset="UTF-8">
         <style>
             <%@ include file="css/custom.css" %>
